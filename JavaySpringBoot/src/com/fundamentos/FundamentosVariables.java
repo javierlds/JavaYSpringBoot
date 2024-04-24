@@ -18,9 +18,11 @@ public class FundamentosVariables {
     boolean b = false;
     char aa = 'a';
     char bb = '1';
+    
 
 
     public void usoPrimitivos(){
+        var numero = 10;
 
     }
 
