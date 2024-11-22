@@ -1,4 +1,4 @@
-package com.fundamentos;
+package com.variables;
 /***
  * Tipos primitivos, de un solo valor
  * Enteros: byte, short, int, long, integer
@@ -18,6 +18,11 @@ public class FundamentosVariables {
     boolean b = false;
     char aa = 'a';
     char bb = '1';
+    final int VALOR_CONSTANTE = 10; // Variable constante
+
+    /*Numeros decimales*/
+    float valorFloat = 1;
+
     
 
 

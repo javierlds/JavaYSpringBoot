@@ -1,0 +1,42 @@
+PARADIGMA:
+    - Todo aquel modelo, patron o ejemplo que debe seguirse en determinada situacion
+    - En un sentido amplio, se refiere a una teoria o conjunto de teorias que sirve de modelo a seguir para resolver problemas o situaciones determinadas que se planteen
+
+    PARADIGMA ORIENTADO A OBJETOS:
+        - Un mundo lleno de objetos, resolucion de problemas se realiza mediante el modelo/abstraccion de objetos de la vida real
+        - Los objetos pueden comunicarse entre si mendiante mensajes
+
+
+
+
+    PROGRAMACION ORIENTADA A OBJETOS:
+        Se basa en el concepto de agrupar codigo y datos dentro de una misma unidad llamada CLASE
+
+        CARACTERISTICAS CLASE:
+            * Abstraccion   : Traer algo del mundo real y abstraer al mundo logico
+            * Encapsulamiento
+            * Polimorfismo
+            * Herencia
+            * UML
+
+        OBJETO:
+            Representacion de una entidad de la vida real en nuestro programa
+
+        CLASE:
+            - Plantilla o molde que permite construir objetos
+            - Representan entidades del mundo real
+            - Posee:
+                * atributos
+                * metodos  => acciones que realizan los objetos, en si acciones son funciones  - cuando se asocian con una clase se les llama metodos
+            - No pueden ser utilizadas directamente (sino mediante instancias a objetos)
+
+            EJEMPLO:
+                / Auto
+                / Persona
+                / Departamento
+
+
+        METODOS CONSTRUCTORES:
+            - Se llama igual que la clase
+            - No retorna
+            - Tipos , vacios, con todos los parametros
